@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\HDD-SSD-FILE Exception\HDD-SSD-FILE Exception\Source.cpp(56,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\HDD-SSD-FILE Exception\HDD-SSD-FILE Exception\Source.cpp(68,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\HDD-SSD-FILE Exception\HDD-SSD-FILE Exception\Source.cpp(150,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\HDD-SSD-FILE Exception\HDD-SSD-FILE Exception\Source.cpp(190,14): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Admin\source\repos\HDD-SSD-FILE Exception\HDD-SSD-FILE Exception\Source.cpp(201,16): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Admin\source\repos\HDD-SSD-FILE Exception\HDD-SSD-FILE Exception\Source.cpp(217,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Admin\source\repos\HDD-SSD-FILE Exception\HDD-SSD-FILE Exception\Source.cpp(228,16): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Admin\source\repos\HDD-SSD-FILE Exception\HDD-SSD-FILE Exception\Source.cpp(237,28): warning C4356: 'Disc::max_size': static data member cannot be initialized via derived class
+C:\Users\Admin\source\repos\HDD-SSD-FILE Exception\HDD-SSD-FILE Exception\Source.cpp(287,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HDD-SSD-FILE Exception.vcxproj -> C:\Users\Admin\source\repos\HDD-SSD-FILE Exception\Debug\HDD-SSD-FILE Exception.exe
